@@ -1,0 +1,20 @@
+# Backend (Maven)
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+
+# Frontend JavaFX (Maven)
+frontend-javafx/target/
+
+# Frontend React
+frontend-react/node_modules/
+frontend-react/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
